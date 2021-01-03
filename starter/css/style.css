@@ -30,5 +30,8 @@ body {
     background-size: cover;
 
     clip-path: polygon(0 0,100% 0,100% 80%,0 100%);
+    /* clip-path:polygon(0 0,100% 50%,100% 50%,0 100%); */
+    
     background-position: top;
 }
+
